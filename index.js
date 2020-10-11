@@ -11,7 +11,3 @@ if (result.length !== 0) {
 } else {
   console.log('It is alright');
 }
-
-if (result >= 3) {
-  console.log('fd');
-}
