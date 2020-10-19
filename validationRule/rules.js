@@ -11,4 +11,6 @@ function checkStringRange(value) {
   return value.length > 3 && value.length < 10;
 }
 
-export { checkType, checkIfEmpty, checkStringRange };
+export {
+  checkType, checkIfEmpty, checkStringRange,
+};

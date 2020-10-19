@@ -70,6 +70,7 @@ const user = {
   lastName: 'Sm',
   age: 45,
   phone: '124445789',
+  sex: 'male',
 };
 
 export { userScheme, user };
